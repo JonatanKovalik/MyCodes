@@ -1,0 +1,10 @@
+D:\Programing\C#\FirstApp\bin\Debug\FirstApp.exe.config
+D:\Programing\C#\FirstApp\bin\Debug\FirstApp.exe
+D:\Programing\C#\FirstApp\bin\Debug\FirstApp.pdb
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.Form1.resources
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.Properties.Resources.resources
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.csproj.GenerateResource.cache
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.exe
+D:\Programing\C#\FirstApp\obj\Debug\FirstApp.pdb

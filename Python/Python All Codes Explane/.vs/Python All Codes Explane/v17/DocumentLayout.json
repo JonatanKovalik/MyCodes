@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\Python\\Python All Codes Explane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B732E0-6B92-4B39-8004-2993DF06932E}|Python All Codes Explane.pyproj|D:\\Programing\\Python\\Python All Codes Explane\\Python_All_Codes_Explane.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6B732E0-6B92-4B39-8004-2993DF06932E}|Python All Codes Explane.pyproj|solutionrelative:Python_All_Codes_Explane.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python_All_Codes_Explane.py",
+              "DocumentMoniker": "D:\\Programing\\Python\\Python All Codes Explane\\Python_All_Codes_Explane.py",
+              "RelativeDocumentMoniker": "Python_All_Codes_Explane.py",
+              "ToolTip": "D:\\Programing\\Python\\Python All Codes Explane\\Python_All_Codes_Explane.py",
+              "RelativeToolTip": "Python_All_Codes_Explane.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T15:29:53.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

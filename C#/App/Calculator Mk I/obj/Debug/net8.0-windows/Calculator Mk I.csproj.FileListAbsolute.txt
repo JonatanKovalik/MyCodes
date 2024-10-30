@@ -1,0 +1,16 @@
+D:\Programing\C#\App\Calculator Mk I\bin\Debug\net8.0-windows\Calculator Mk I.exe
+D:\Programing\C#\App\Calculator Mk I\bin\Debug\net8.0-windows\Calculator Mk I.deps.json
+D:\Programing\C#\App\Calculator Mk I\bin\Debug\net8.0-windows\Calculator Mk I.runtimeconfig.json
+D:\Programing\C#\App\Calculator Mk I\bin\Debug\net8.0-windows\Calculator Mk I.dll
+D:\Programing\C#\App\Calculator Mk I\bin\Debug\net8.0-windows\Calculator Mk I.pdb
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator_Mk_I.Form1.resources
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.csproj.GenerateResource.cache
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.AssemblyInfoInputs.cache
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.AssemblyInfo.cs
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.csproj.CoreCompileInputs.cache
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.dll
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\refint\Calculator Mk I.dll
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.pdb
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\Calculator Mk I.genruntimeconfig.cache
+D:\Programing\C#\App\Calculator Mk I\obj\Debug\net8.0-windows\ref\Calculator Mk I.dll

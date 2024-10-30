@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculator Mk I/1.0.0": {
+        "runtime": {
+          "Calculator Mk I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator Mk I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
