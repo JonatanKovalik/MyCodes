@@ -1,3 +1,3 @@
 ﻿  FirstCodeC++.cpp
-D:\Programing\C++\FirstCodeC++\FirstCodeC++.cpp(156,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  FirstCodeC++.vcxproj -> D:\Programing\C++\FirstCodeC++\x64\Debug\FirstCodeC++.exe
+D:\Programing\AllMyCodes\C++\FirstCodeC++\FirstCodeC++.cpp(155,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FirstCodeC++.vcxproj -> D:\Programing\AllMyCodes\C++\FirstCodeC++\x64\Debug\FirstCodeC++.exe
